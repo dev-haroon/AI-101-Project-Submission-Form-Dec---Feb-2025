@@ -11,6 +11,6 @@ def guess(x):
           print("Provided Number is too high");
     
     
-    print(f"Congratulations! You have guessed the correct number");    
+    print(f"Congratulations! You have guessed the correct number {guess}");    
 
 guess(10)
